@@ -27,6 +27,6 @@
 
 5.	OvaaS … **https://ovaas.netlify.app/** (GoogleChrome以外ではうまく開かない場合があります。)
 学校のゼミで、自分を含めて５人のメンバーでOpenVINOというAIサービスを簡単に作成できるツールのデモWebサイト「OvaaS」を作成しました。私は、AIモデルのプログラムの作成や、Webサイトとの通信の際のプログラムの処理などのバックエンドを担当しました。
-**公開されいるプログラムのURL https://github.com/OVaaS/OVaaS_transmit**
+**公開されいるプログラムのURL https://github.com/Tsugawa007/OVaaS_backend**
 <br>
 
