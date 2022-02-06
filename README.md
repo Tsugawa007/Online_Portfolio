@@ -35,7 +35,7 @@
 <br>
 
 6.	NEKOSNS … **https://www.youtube.com/watch?v=Tgg7E_X73Ug**   進捗映像(Youtube)
-Rubyの勉強のために作成しました。
+Rubyの勉強のために作成しました。<br>
 このWebサービスの機能は、ログイン、ログアウト、いいにゃ(いいね機能のこと)、画像投稿(猫写真以外はアップロードブロック機能(Azure APIを使用 卑猥な画像や気持ち悪い画像もブロックできます)
 **公開されいるプログラムのURL https://github.com/Tsugawa007/NekoSNS**
 <br>
