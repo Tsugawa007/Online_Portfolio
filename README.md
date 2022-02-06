@@ -6,12 +6,13 @@
 
 <br>
 
-2.	 簡易ソーシャルディスタンスプログラム…social_distance.pdf<br>
+2.簡易ソーシャルディスタンスプログラム…social_distance.pdf<br>
 学校のゼミの一環で、1人で作成しました。学習済みAIモデルを使用し、瞬間的なソーシャルディスタンスの違反だけではなく、一定時間のソーシャルディスタンス違反も判断できるようにしました。2021年の10月にIntel® AI Global Impact Festivalという世界的なオンライン祭典の、competeというジャンルの AI Impact Creators部門で日本代表として国に選ばれました。<br>
 そして、その AI Impact Creators部門でファイナリストとして選出されました。<br>
 下のURLは、Intel® AI Global Impact Festivalで私の作品が展示されている実際の様子です。<br>
 **https://drive.google.com/file/d/1XpuswL82JC60-36XVGu0RpOAo5WNcSCG/view**
 <br>
+
 **公開されいるプログラムのURL https://github.com/AAEONPROJECT/SocialDistance**
 
 <br>
